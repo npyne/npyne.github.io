@@ -1,7 +1,10 @@
 body {
-    background-color: black;
+    background-color: #FFF8DC;
 }
 
-h1, p {
-    color: blue;
+h1 {color: 	#6495ED;
+}
+
+p {
+    color: #FF7F50;
 } 
