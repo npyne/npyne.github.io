@@ -11,3 +11,5 @@ h1 {color: #072500;
 p {
     color: black;
 }
+ul {list-style: none;
+}
