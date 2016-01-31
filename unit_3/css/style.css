@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+    background:
+    	url(https://images.unsplash.com/photo-1431887773042-803ed52bed26?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1450);
+}
+
+h1 {color: #072500;
+	font-style: italic;
+}
+
+p {
+    color: black;
+}
