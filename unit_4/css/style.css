@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,600);
+body {
+	text-align: center;
+    background:
+    	url(https://images.unsplash.com/photo-1431887773042-803ed52bed26?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1450);
+}
+
+h1 {color: #072500;
+	font-style: italic;
+	font-family: 'Indie Flower';
+	font-size: 60px;
+}
+
+p {
+	padding-top: 420px;
+	font-weight: bold;
+    color: white;
+    font-family: 'Indie Flower';
+    font-size: 2em;
+}
+ul {list-style: none;
+}
+a {
+	font-family: 'Indie Flower';
+    font-size: 2em;
+    color: white;
+}
